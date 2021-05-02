@@ -1,12 +1,12 @@
 <template>
 	<header ref="header">
 		<div class="view">
-			<img ref="imgbg1" src="https://cdn.jsdelivr.net/gh/Naccl/blog-resource/img/bg1.jpg" style="display: none;">
-			<div class="bg1" style="background-image: url('https://cdn.jsdelivr.net/gh/Naccl/blog-resource/img/bg1.jpg');"></div>
-			<div class="bg2" style="background-image: url('https://cdn.jsdelivr.net/gh/Naccl/blog-resource/img/bg2.jpg');"></div>
-			<div class="bg3" style="background-image: url('https://cdn.jsdelivr.net/gh/Naccl/blog-resource/img/bg3.jpg');" v-show="loaded"></div>
+			<img ref="imgbg1" src="https://cdn.jsdelivr.net/gh/1271381588/Blogpicture@1.0.2/image.png" style="display: none;">
+			<div class="bg1" style="background-image: url(https://cdn.jsdelivr.net/gh/1271381588/Blogpicture@1.0.2/image.png);"></div>
+			<div class="bg2" style="background-image: url('https://cdn.jsdelivr.net/gh/1271381588/Blogpicture@1.0.2/image2.png');"></div>
+			<div class="bg3" style="background-image: url('https://cdn.jsdelivr.net/gh/1271381588/Blogpicture@1.0.2/image3.png');" v-show="loaded"></div>
 		</div>
-		<div class="text-malfunction" data-word="Naccl's Blog">
+		<div class="text-malfunction" data-word="树下子 Blog">
 			<div class="line"></div>
 		</div>
 		<div class="wrapper">
