@@ -13,6 +13,6 @@ module.exports = {
 	},
 	publicPath:
     process.env.NODE_ENV === "production"
-      ? `https://cdn.jsdelivr.net/gh/1271381588/NBlog@1.0.0/blog-view/dist/`
+      ? `https://cdn.jsdelivr.net/gh/1271381588/NBlog@1.0.0/blog-cms/dist/`
       : "/"
 }
